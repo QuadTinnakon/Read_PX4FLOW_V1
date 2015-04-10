@@ -1,6 +1,6 @@
 # Read_PX4FLOW_V1
 /*
-project_PX4FLOW V1 3 1 Optical Flow Sensor Smart Camera_V1  
+project_ Arduino Due ReadPX4FLOW V1 3 1 Optical Flow Sensor Smart Camera_V1  
 
 by: tinnakon kheowree  
 
